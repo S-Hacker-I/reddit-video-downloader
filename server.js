@@ -9,6 +9,11 @@ const port = process.env.PORT || 3000;
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
+// Route to serve the HTML file
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 app.post('/download', (req, res) => {
     const videoUrl = req.body.videoUrl;
     const outputDir = path.resolve(__dirname, 'public');
@@ -25,7 +30,6 @@ app.post('/download', (req, res) => {
         const originalName = stdout.trim();
         const outputFilePath = path.resolve(outputDir, originalName);
 
-        // Command to download the best video+audio format
         const downloadCommand = `yt-dlp -f "bestvideo+bestaudio[ext=m4a]/best[ext=mp4]/best" "${videoUrl}" -o "${outputFilePath}"`;
 
         exec(downloadCommand, (downloadError) => {
