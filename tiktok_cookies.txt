@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# This is a generated file! Do not edit.
+
+.tiktok.com	TRUE	/	TRUE	1741095268	tt_chain_token	tKrvR4WkEvZPv7XvK9KzsQ==
+.www.tiktok.com	TRUE	/	TRUE	1750856626	tiktok_webapp_theme	light
+.tiktok.com	TRUE	/	TRUE	1759239180	_ttp	2hRvR7PNYxroET94DTreZe480Rb
+.tiktok.com	TRUE	/	TRUE	1752473562	tta_attr_id_mirror	0.1720937564.7391370553778520080
+.www.tiktok.com	TRUE	/	TRUE	1748890065	tiktok_webapp_theme_auto_dark_ab	1
+.www.tiktok.com	TRUE	/	TRUE	1750856626	tiktok_webapp_theme_source	system
+.www.tiktok.com	TRUE	/	TRUE	1748890068	delay_guest_mode_vid	1
+.tiktok.com	TRUE	/	TRUE	1728154224	passport_csrf_token	6602e803302141987738fae88cb8efae
+.tiktok.com	TRUE	/	FALSE	1728154224	passport_csrf_token_default	6602e803302141987738fae88cb8efae
+.tiktok.com	TRUE	/	FALSE	1754523197	odin_tt	a468d3aaf3b606eda4a31837dbf7aaf322ae9a149cce083547dd946d85fc980e48be70d1d5c7fa92c9690a711f3d9044cc60fb9e8bb3f7eb39e58de57034d4d8
+.tiktok.com	TRUE	/	TRUE	1725728442	msToken	XL-zfpqmFhiudGTkXZCDa2jMXKZ0ct0HWWAjFt-SbqqEfeL_TbPHmi-DgRKnNOUMBgrSgJqCz7_KVx_7LSuCcMYtKU4nzO93vueW1kUBFZJKKgSydE-dJ1k8I_Ue7ooUtoG4viXvOKi2
+www.tiktok.com	TRUE	/	FALSE	1732640442	msToken	XL-zfpqmFhiudGTkXZCDa2jMXKZ0ct0HWWAjFt-SbqqEfeL_TbPHmi-DgRKnNOUMBgrSgJqCz7_KVx_7LSuCcMYtKU4nzO93vueW1kUBFZJKKgSydE-dJ1k8I_Ue7ooUtoG4viXvOKi2
+.tiktok.com	TRUE	/	TRUE	1756472626	ttwid	1%7CfUSBGkzzJbjm_uZ-j5J6dTJD93AJZP_zE9YGS5vMJwo%7C1724936627%7Cebb4e66dcf247995e73777065b27449b6c0f9d99e125b449d73786211dd5e407
+.tiktok.com	TRUE	/	TRUE	0	tt_csrf_token	sEzjHTIp-sWygTAvZPVWv3cJZP_d4aFvyBuc
+.tiktok.com	TRUE	/	FALSE	1725550468	ak_bmsc	36C21E81CFD9A07FF48E9C644362C5C3~000000000000000000000000000000~YAAQlZQQAj6dGcGRAQAAxrhkwhnBOGmzvOEGYtr+NwxkMLewMiVtwLH/utkxpvEG7TaVhH24CP4uzLm6Btkrm27G0tXzefN6M9pThfQo3sIqVbx8LMeCB8jL1BK5RYfuEFBUrcQk8G6C4uiRxkhgx6KZapSsrPBjpE8FnGXB2gGCFTscDbyHqISrtmsMBmMxR+Rkw+WBCUkwualSHxSv1arYGnQl65BvSKUERDqxqpCNYCcJpg+g4lQIj2wonIR6hPWP7XoZns/vgBr/u7dT53LHi5Ei2ocnXFahJ9YNprvyY76AMJFsB3axT3rv5Ta/r45ZSMk3QJSGdlJLaBppA8cxpZci/MUxNqmyAFljGAGmAQ+CdaRKJ17QpI6xrREODNGCMg0cR7DLFXg=
